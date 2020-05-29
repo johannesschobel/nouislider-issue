@@ -1,0 +1,7 @@
+{
+  "name": "shit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
